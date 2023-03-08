@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LexicalAnalyser
+comment1.params=
+comment1.target=void\ printRules()
+comment2.params=in
+comment2.target=java.lang.String[]\ splitIn(java.lang.String)
+comment3.params=in
+comment3.target=boolean\ checkSyntax(java.lang.String[])
+comment4.params=in
+comment4.target=boolean\ compute(java.lang.String[])
+numComments=5
